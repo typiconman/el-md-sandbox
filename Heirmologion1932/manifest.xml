@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="f47ac10b-58cc-4372-a567-0e02b2c3d479"/>
+		<meta name="lang" content="el"/>
+		<meta name="title" content="Εἱρμολόγιον"/>
+		<meta name="latin" content="Hiermologion"/>
+		<meta name="publisher" content="Chennevières-sur-Marne"/>
+		<meta name="year" content="1932"/>
+		<meta name="note" content="Pagination according to the new edition: Εἱρμολόγιον ἐκδιδόμενον ὑπὸ μητροπολίτου πρ. Λεοντοπόλεοως Σωφρονίου Εὐστρατιαδοῦ ... Ἐπιμελεία Α. Δ. Παναγιώτου et al. Ἀθῆνα: ἐκδοτικὸς ὀργανισμὸς Π. Κυριακίδη Α.Ε., 2006"/>
+        <meta name="follieri" content="EE"/>
+        <meta name="TLG" content="https://stephanus.tlg.uci.edu/Iris/Cite?5361:004:366"/>
+	</head>
+	<manifest>
+		<chapter file="01" name="Mode 1"/>
+	</manifest>
+</bookdata>

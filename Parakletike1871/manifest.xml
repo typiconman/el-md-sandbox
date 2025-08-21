@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="a3c1e5b2-4f8e-4c3b-9c1e-1b2f3e4d5c6a"/>
+		<meta name="lang" content="el"/>
+		<meta name="title" content="Παρακλητικὴ ἤτοι Ὀκτώηχος ἡ μεγάλη"/>
+		<meta name="latin" content="Paraklītikī ītoi Oktōīchoς ī megalī"/>
+		<meta name="publisher" content="Ἑνετίῃσιν, Ἅγιος Γεώργιος"/>
+		<meta name="year" content="1871"/>
+		<meta name="note" content="Full title: Παρακλητικὴ ἤτοι Ὀκτώηχος ἡ μεγάλη ... ἐξακριβωθεῖσα ὑπὸ... Ἰωάννου καὶ Σπυρίδωνος Βελούδων. Ἑνετίῃσιν, Ἅγιος Γεώργιος, 1871."/>
+        <meta name="follieri" content="PaV"/>
+	</head>
+	<manifest>
+		<chapter file="01_1" name="Mode 1, Sunday"/>
+	</manifest>
+</bookdata>
